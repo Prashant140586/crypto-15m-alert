@@ -1,4 +1,2 @@
-| Key         | Value                 |
-| ----------- | --------------------- |
-| `BOT_TOKEN` | 8959079338:AAGOIK9QQDdziwQvNt2FHztPiOHQ3iWwpco |
-| `CHAT_ID`   | `1008069540`          |
+requests
+Flask
